@@ -82,6 +82,8 @@ After executing all of this, you'll come up with a report that will look like th
 ---
 ## Additional Information and References :open_book:
 
+**Manual Test plan** https://docs.google.com/document/d/1B_SRozuuaDfQx2XPMhTLWwtvSsSCgV0moyhnID4609o/edit
+
 **Playwright Docs**: https://playwright.dev/docs/intro
 
 **Jest Docs**: https://jestjs.io/docs/getting-started
